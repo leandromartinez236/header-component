@@ -1,0 +1,12 @@
+.fares {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.fares img {
+  height: 50px;
+  width: 50px;
+}
+.fares h2 {
+  color: white;
+}
